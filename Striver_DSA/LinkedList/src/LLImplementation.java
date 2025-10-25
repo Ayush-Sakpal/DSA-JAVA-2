@@ -73,13 +73,6 @@ public class LLImplementation {
             size++;
         }
 
-        // Delete a node at index
-        void deleteAtIdx(int idx){
-            if(idx == 0){
-
-            }
-        }
-
         // Get value at index
         int getValueAt(int idx){
             if(idx == 0){
